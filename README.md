@@ -27,6 +27,7 @@ https://github.com/praeclarum/sqlite-net
 испльзовать Entity Framework(информация для Unity 5), так как используемая версия mono не поддерживает Entity Framework.
 
 Полезная информация, которой я пользовался чтобы заставить всё работать.
+
 http://www.sergechel.info/ru/content/using-sqllite-with-c-sharp-part-1-preparing-tools SQLite и .Net
 
 https://habrahabr.ru/post/56694/                      SQLite и .Net
