@@ -28,7 +28,12 @@ https://github.com/praeclarum/sqlite-net
 
 Полезная информация, которой я пользовался чтобы заставить всё работать.
 http://www.sergechel.info/ru/content/using-sqllite-with-c-sharp-part-1-preparing-tools SQLite и .Net
+
 https://habrahabr.ru/post/56694/                      SQLite и .Net
+
 http://xgm.guru/p/unity/sqlite                        SQLite и Unity
+
 https://habrahabr.ru/post/181239/                     SQLite и Unity
+
 http://sqlitebrowser.org/                             визуальный редактор базы данных
+
