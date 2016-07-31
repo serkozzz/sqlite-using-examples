@@ -26,7 +26,7 @@ https://github.com/praeclarum/sqlite-net
 и класть в результат сборки. Просто добавьте sqlite через NuGet. Этот способ, конечно, не для Unity. В Unity также не получится 
 испльзовать Entity Framework(информация для Unity 5), так как используемая версия mono не поддерживает Entity Framework.
 
-Полезная информация, которой я пользовался чтобы заставить всё работать.
+Полезная информация, которой я пользовался чтобы заставить всё работать:
 
 http://www.sergechel.info/ru/content/using-sqllite-with-c-sharp-part-1-preparing-tools SQLite и .Net
 
